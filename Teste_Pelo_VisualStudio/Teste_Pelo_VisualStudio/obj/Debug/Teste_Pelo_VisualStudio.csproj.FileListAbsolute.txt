@@ -1,0 +1,10 @@
+C:\Users\ROG\Source\Repos\Teste\Teste_Pelo_VisualStudio\Teste_Pelo_VisualStudio\bin\Debug\Teste_Pelo_VisualStudio.exe.config
+C:\Users\ROG\Source\Repos\Teste\Teste_Pelo_VisualStudio\Teste_Pelo_VisualStudio\bin\Debug\Teste_Pelo_VisualStudio.exe
+C:\Users\ROG\Source\Repos\Teste\Teste_Pelo_VisualStudio\Teste_Pelo_VisualStudio\bin\Debug\Teste_Pelo_VisualStudio.pdb
+C:\Users\ROG\Source\Repos\Teste\Teste_Pelo_VisualStudio\Teste_Pelo_VisualStudio\obj\Debug\Teste_Pelo_VisualStudio.csprojAssemblyReference.cache
+C:\Users\ROG\Source\Repos\Teste\Teste_Pelo_VisualStudio\Teste_Pelo_VisualStudio\obj\Debug\Teste_Pelo_VisualStudio.Form1.resources
+C:\Users\ROG\Source\Repos\Teste\Teste_Pelo_VisualStudio\Teste_Pelo_VisualStudio\obj\Debug\Teste_Pelo_VisualStudio.Properties.Resources.resources
+C:\Users\ROG\Source\Repos\Teste\Teste_Pelo_VisualStudio\Teste_Pelo_VisualStudio\obj\Debug\Teste_Pelo_VisualStudio.csproj.GenerateResource.cache
+C:\Users\ROG\Source\Repos\Teste\Teste_Pelo_VisualStudio\Teste_Pelo_VisualStudio\obj\Debug\Teste_Pelo_VisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Source\Repos\Teste\Teste_Pelo_VisualStudio\Teste_Pelo_VisualStudio\obj\Debug\Teste_Pelo_VisualStudio.exe
+C:\Users\ROG\Source\Repos\Teste\Teste_Pelo_VisualStudio\Teste_Pelo_VisualStudio\obj\Debug\Teste_Pelo_VisualStudio.pdb
